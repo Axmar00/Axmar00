@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hi there, I'm Asmar 👋
+
+### 📫 How to reach me:
+ - Connect on [LinkedIn][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/i-asmar-nasar2/
 
 <!--
 **Axmar00/Axmar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
