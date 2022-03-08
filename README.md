@@ -3,7 +3,7 @@
 ### 📫 How to reach me:
  - Connect on [LinkedIn][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/i-asmar-nasar2/
+[linkedin]: https://www.linkedin.com/in/iasmarn/
 
 ### Language and Tools
 <p align="left"> 
